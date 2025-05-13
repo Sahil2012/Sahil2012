@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Gupta</h1>
 <h3 align="center">A Software Developer who loves to code and explore new tech</h3>
 
-- 🌱 I’m currently learning **Unix,Azure and GraphQL**
+- 🌱 I’m currently learning **LangGraph**
 
 - 👯 I’m looking to collaborate on **Java Backend Projects**
 
