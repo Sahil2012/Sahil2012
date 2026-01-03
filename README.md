@@ -7,7 +7,6 @@ I’m a software engineer with **3.5+ years of experience** who enjoys solving
 
 🚀 Building [**Naukri Outreach**](https://naukri-outreach.vercel.app/) and [**NovaCraftsAI**](https://novacraftsai.com/).
 
-<br/>
 <a href='https://x.com/guptasahil7/'>
   <img target="_blank" align='left' alt="X" src="./twitter.png" height='18px'/>
 </a>
